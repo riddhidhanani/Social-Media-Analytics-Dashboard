@@ -167,3 +167,4 @@ The PDF export functionality works best in modern browsers:
 ## License
 
 This project is licensed under the MIT License.
+
